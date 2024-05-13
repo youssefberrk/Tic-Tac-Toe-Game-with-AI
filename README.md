@@ -1,3 +1,4 @@
+
 # Tic-Tac-Toe Game with AI
 
 This is a simple implementation of the classic Tic-Tac-Toe game with an AI opponent. The game allows players to play against each other or against the computer AI at varying difficulty levels.
@@ -20,4 +21,32 @@ This is a simple implementation of the classic Tic-Tac-Toe game with an AI oppon
 
    ```bash
    git clone https://github.com/youssefberrk/Tic-Tac-Toe-Game-with-AI.git
+   ```
+
+## Usage
+
+1. Navigate to the project directory:
+
+   ```bash
+   cd Tic-Tac-Toe-Game-with-AI
+   ```
+
+2. Run the game:
+
+   ```bash
+   python tic_tac_toe.py
+   ```
+
+## Screenshots
+
+![Game Screenshot](tic.png)
+
+## Contributors
+
+- [Youssef Berrk](https://github.com/youssefberrk)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
 
